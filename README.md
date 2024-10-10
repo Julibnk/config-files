@@ -9,6 +9,7 @@ My workspace configuration
 - fd
 - delta
 - fzf-git
+- tldc *tldr in rust*
 
 ### ZSH plugins
 - git
