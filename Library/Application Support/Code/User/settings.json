@@ -1,0 +1,123 @@
+{
+  "workbench.iconTheme": "material-icon-theme",
+  "yaml.schemas": {
+    "file:///c%3A/Users/ferna/.vscode/extensions/atlassian.atlascode-2.9.0/resources/schemas/pipelines-schema.json": "bitbucket-pipelines.yml"
+  },
+  "redhat.telemetry.enabled": false,
+  "security.workspace.trust.untrustedFiles": "open",
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features"
+  },
+  "editor.minimap.enabled": false,
+  "editor.semanticTokenColorCustomizations": {
+    "[Default Dark+]": {
+      "rules": {
+        "property.mandatory:xml": {
+          "bold": true
+        },
+        "string.i18n:xml": {
+          "italic": true
+        }
+      }
+    },
+    "[Default Light+]": {
+      "rules": {
+        "property.mandatory:xml": {
+          "bold": true
+        },
+        "string.i18n:xml": {
+          "italic": true
+        }
+      }
+    },
+    "[Default High Contrast]": {
+      "rules": {
+        "property.mandatory:xml": {
+          "bold": true
+        },
+        "string.i18n:xml": {
+          "italic": true
+        }
+      }
+    }
+  },
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "liveServer.settings.donotShowInfoMsg": true,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "editor.bracketPairColorization.enabled": true,
+  "editor.guides.bracketPairs": "active",
+  "[prisma]": {
+    "editor.defaultFormatter": "Prisma.prisma"
+  },
+  "files.associations": {
+    "*.env.development": "env",
+    "*.env.production": "env",
+    "*.env.dev": "env",
+    "*.env.prod": "env",
+    "*.env.local": "env",
+    "*.env.test": "env"
+  },
+  "[env]": {
+    "editor.defaultFormatter": "IronGeek.vscode-env"
+  },
+  "prettier.singleQuote": true,
+  "prettier.jsxSingleQuote": true,
+  "explorer.compactFolders": false,
+  "editor.inlineSuggest.enabled": true,
+  "github.copilot.enable": {
+    "*": true,
+    "plaintext": false,
+    "markdown": true,
+    "scminput": false,
+    "yaml": true
+  },
+  "terminal.integrated.profiles.windows": {
+    "PowerShell": {
+      "source": "PowerShell",
+      "icon": "terminal-powershell"
+    },
+    "Command Prompt": {
+      "path": [
+        "${env:windir}\\Sysnative\\cmd.exe",
+        "${env:windir}\\System32\\cmd.exe"
+      ],
+      "args": [],
+      "icon": "terminal-cmd"
+    },
+    "Git Bash": {
+      "source": "Git Bash"
+    },
+    "Ubuntu (WSL)": {
+      "path": "C:\\WINDOWS\\System32\\wsl.exe",
+      "args": ["-d", "Ubuntu"]
+    }
+  },
+  "terminal.integrated.defaultProfile.windows": "PowerShell",
+  "terminal.integrated.fontFamily": "MesloLGS NF",
+  "jestrunner.jestCommand": "npm run test:vscode",
+  "eslint.format.enable": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit"
+  },
+  "editor.lineHeight": 25,
+  "git.openRepositoryInParentFolders": "never",
+  "codesandbox.currentWorkspace": "ab4b46e2-330d-470d-80ed-e1ba91ee2bdc",
+  "remote.SSH.remotePlatform": {
+    "sandbox.0c9v9b.csb": "linux"
+  },
+  "workbench.colorTheme": "One Dark Pro",
+  "editor.fontFamily": "JetBrains Mono, Consolas, 'Courier New', monospace",
+  "rapidapi.terminalLink.enabled": false,
+  "eslint.nodePath": "/usr/local/bin/node",
+  "editor.fontSize": 14,
+  "editor.fontWeight": "normal",
+  "terminal.integrated.fontSize": 14,
+  "debug.console.fontSize": 14,
+  "terminal.external.osxExec": "iTerm.app",
+  "editor.accessibilitySupport": "off",
+  "github.copilot.editor.enableAutoCompletions": true,
+  "terminal.integrated.inheritEnv": false,
+  "terminal.explorerKind": "external"
+}
