@@ -2,6 +2,23 @@
 [user]
 # Please adapt and uncomment the following lines:
 	name = julibnk
-	email = fernandezfernandezjulian@gmail.com
+  email = fernandezfernandezjulian@gmail.com
+
 [init]
-	defaultBranch = main
+  defaultBranch = main
+
+[code]
+  editor = nvim 
+
+[delta]
+  navigate = true
+  side-by-side = true
+
+[core]
+  pager = delta
+
+[merge]
+  conflictstyle = diff3
+
+[diff]
+  colorMoved = default

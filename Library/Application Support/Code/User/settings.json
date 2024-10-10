@@ -107,7 +107,7 @@
   "remote.SSH.remotePlatform": {
     "sandbox.0c9v9b.csb": "linux"
   },
-  "workbench.colorTheme": "One Dark Pro",
+  "workbench.colorTheme": "Atom One Light",
   "editor.fontFamily": "JetBrains Mono, Consolas, 'Courier New', monospace",
   "rapidapi.terminalLink.enabled": false,
   "eslint.nodePath": "/usr/local/bin/node",
@@ -119,5 +119,7 @@
   "editor.accessibilitySupport": "off",
   "github.copilot.editor.enableAutoCompletions": true,
   "terminal.integrated.inheritEnv": false,
-  "terminal.explorerKind": "external"
+  "terminal.explorerKind": "external",
+  "workbench.preferredDarkColorTheme": "One Dark Pro",
+  "window.autoDetectColorScheme": true
 }
