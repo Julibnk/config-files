@@ -7,9 +7,6 @@
 [init]
   defaultBranch = main
 
-[code]
-  editor = nvim 
-
 [delta]
   navigate = true
   side-by-side = true

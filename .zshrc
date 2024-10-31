@@ -184,6 +184,12 @@ alias vim='nvim'
 alias cat='bat'
 alias cd='z'
 alias ls='eza --color=always --long --git --no-filesize --icons=always --no-time --no-user'
+alias cl='clear'
+alias lg='lazygit'
 
 # Init zoxide
 eval "$(zoxide init zsh)"
+
+export VISUAL=nvim
+export EDITOR="$VISUAL"
+
